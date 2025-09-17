@@ -1,2 +1,3 @@
 this is a stage file
 add .
+emperature.txtThe air temperature is 29 degrees today
