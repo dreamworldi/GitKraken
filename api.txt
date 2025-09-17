@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The air quality is 35
+=======
+The air quality is 52
+>>>>>>> branch2
